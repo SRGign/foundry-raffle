@@ -1,5 +1,7 @@
 ## Foundry
 
+**A smart contract lottery built using the Foundry toolkit.**
+
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
 
 Foundry consists of:
